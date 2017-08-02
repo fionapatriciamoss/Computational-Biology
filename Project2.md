@@ -1,7 +1,7 @@
 # Determining the location of clusters of palindromes to find a potential replication site of the human Cytomegalovirus
 Fiona Moss  
 
-###Summary of Findings:
+### Summary of Findings:
 
 <p>
 A careful look at the data, strongly impresses the researcher that there is an imminent need to identify the existence of unusually dense clusters (Candidate Regions) of complementary palindromes as these are potential replication sites for the virus.
@@ -20,7 +20,7 @@ Therefore, if we consider the bin size of 2000, the bin to be considered to find
 
 <hr>
 
-###Analysis of Data:
+### Analysis of Data:
 
 <p>
 The data for this study is present in the following location:
@@ -180,7 +180,7 @@ Therefore, the location of the palindromes in this octet (first candidate region
 
 <p>
 
-###Accuracy of results:
+### Accuracy of results:
 
 In my opinion, this line of analysis should yield the right results because of the following reasons: <br>
 
@@ -196,7 +196,7 @@ In my opinion, this line of analysis should yield the right results because of t
 
 2. Both the analyses used (Count, Length and Space) have shown the same location for the first candidate region thereby proving the accuracy of the leading candidate results.<br>
 
-###Robustness of choice of lag and window size:
+### Robustness of choice of lag and window size:
 Considering the model to be a Homogenous Poisson Process:
 
 1. I have tested the analyses with different bin sizes and increments but the location of the candidate regions hasn't changed considerably.<br>
