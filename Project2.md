@@ -116,7 +116,7 @@ largest <- cmv[cmv >= 92001 & cmv < 94000]
 #largest
 ```
 
-The locations of palindromes in the largest cluster (first candidate region) are: <br><b> $9.2526\times 10^{4}, 9.257\times 10^{4}, 9.2643\times 10^{4}, 9.2701\times 10^{4}, 9.2709\times 10^{4}, 9.2747\times 10^{4}, 9.2783\times 10^{4}, 9.2859\times 10^{4}, 9.311\times 10^{4}, 9.325\times 10^{4}, 9.3511\times 10^{4}, 9.3601\times 10^{4}$</b>
+The locations of palindromes in the largest cluster (first candidate region) are: <br><b>$ 9.2526\times 10^{4}, 9.257\times 10^{4}, 9.2643\times 10^{4}, 9.2701\times 10^{4}, 9.2709\times 10^{4}, 9.2747\times 10^{4}, 9.2783\times 10^{4}, 9.2859\times 10^{4}, 9.311\times 10^{4}, 9.325\times 10^{4}, 9.3511\times 10^{4}, 9.3601\times 10^{4} $</b>
 
 
 ```r
@@ -128,8 +128,8 @@ second2 <- cmv[cmv >= 195001 & cmv < 197000]
 ```
 
 The locations of palindromes in the second most largest candidate regions(second and the third candidate regions) are: 
-<br><b>$1.94111\times 10^{5}, 1.95032\times 10^{5}, 1.95112\times 10^{5}, 1.95117\times 10^{5}, 1.95151\times 10^{5}, 1.95221\times 10^{5}, 1.95262\times 10^{5}, 1.95835\times 10^{5}$</b>
-<br><b>$1.95032\times 10^{5}, 1.95112\times 10^{5}, 1.95117\times 10^{5}, 1.95151\times 10^{5}, 1.95221\times 10^{5}, 1.95262\times 10^{5}, 1.95835\times 10^{5}, 1.96992\times 10^{5}$</b>
+<br><b>$ 1.94111\times 10^{5}, 1.95032\times 10^{5}, 1.95112\times 10^{5}, 1.95117\times 10^{5}, 1.95151\times 10^{5}, 1.95221\times 10^{5}, 1.95262\times 10^{5}, 1.95835\times 10^{5} $</b>
+<br><b>$ 1.95032\times 10^{5}, 1.95112\times 10^{5}, 1.95117\times 10^{5}, 1.95151\times 10^{5}, 1.95221\times 10^{5}, 1.95262\times 10^{5}, 1.95835\times 10^{5}, 1.96992\times 10^{5} $</b>
 
 </p>
 <b>* Spacing:</b> 
@@ -173,7 +173,7 @@ The distance between an octet of palindromes in a cluster is lesser than any 8 p
 <p>
 Hence, the location at which the distance between the octets of palindromes is most minimum the First Candidate region. 
 <br>
-Therefore, the location of the palindromes in this octet (first candidate region) is <u><b>$9.2526\times 10^{4}, 9.257\times 10^{4}, 9.2643\times 10^{4}, 9.2701\times 10^{4}, 9.2709\times 10^{4}, 9.2747\times 10^{4}, 9.2783\times 10^{4}, 9.2859\times 10^{4}$</b></u>
+Therefore, the location of the palindromes in this octet (first candidate region) is <u><b>$ 9.2526\times 10^{4}, 9.257\times 10^{4}, 9.2643\times 10^{4}, 9.2701\times 10^{4}, 9.2709\times 10^{4}, 9.2747\times 10^{4}, 9.2783\times 10^{4}, 9.2859\times 10^{4} $</b></u>
 </p>
 
 <hr>
